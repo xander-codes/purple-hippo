@@ -1,9 +1,11 @@
-import React from 'react';
+import React, {useState} from 'react';
 
 const Home = () => {
+  const [count, setCount] = useState(0);
     return (
         <div>
-            Hei!
+          <p>Hei!</p>
+          <input type="button" value={count} onClick={()=>setCount(count+1)}/>
         </div>
     );
 };
