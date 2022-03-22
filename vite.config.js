@@ -1,3 +1,3 @@
-// export default {
-//     base: "/purple-hippo/"
-// }
+export default {
+    base: "/purple-hippo/"
+}
