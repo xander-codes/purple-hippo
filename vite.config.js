@@ -1,4 +1,3 @@
-// vite.config.js
 export default {
-    base: "https://xander-codes.github.io/purple-hippo/"
+    base: "/purple-hippo/"
 }
