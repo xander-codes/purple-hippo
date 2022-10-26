@@ -9,6 +9,6 @@ export default () => (
         <p>Hard to get more minimal than this React app.</p>
         {/*<Home/>*/}
         {/*<Login/>*/}
-        {/*<Test/>*/}
+        <Test/>
     </>
 );
